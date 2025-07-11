@@ -19,7 +19,6 @@ analytical-russell-cincinnati-settings.trycloudflare.com
 anccvfsrkauefoh.top
 angeloper.com
 angeloperonline.online
-api.aurorapush.cc
 api.coinhar.io
 api.coinpricehub.io
 api.fivebit.io
@@ -38,7 +37,6 @@ appsync-api.us-west-2.avsvmcloud.com
 apstori.ru
 attisscmo.com
 baredaseco.pro
-bender.today
 berumerb.shop
 bestonlinefilmstudio.org
 bfidmcjejlilflg.top
@@ -127,7 +125,6 @@ derukolino.site
 deski.fastcloudcdn.com
 dev-bunzlapim.net
 dev-bunzlomniportal.com
-device.aurorapush.cc
 dgemmiailgjdlde.top
 diff-beats-belize-chapter.trycloudflare.com
 dnbabanlldibban.top
