@@ -7,12 +7,15 @@
 ::ffff:118.194.249.90
 ::ffff:125.17.108.32
 ::ffff:144.91.68.206
+::ffff:149.154.161.250
 ::ffff:149.154.161.253
 ::ffff:162.210.173.17
 ::ffff:171.25.193.20
+::ffff:185.220.101.58
 ::ffff:206.81.24.74
 ::ffff:45.156.128.106
 ::ffff:45.156.129.57
+::ffff:51.195.190.7
 ::ffff:51.195.190.9
 ::ffff:87.121.84.157
 acibbnijcehcmbi.top
@@ -315,6 +318,7 @@ office-protection.online
 office365-online.live
 officeonline365.live
 oierhjuhbi3i3.top
+oktalogin-targetcompany.com
 online-document.live
 online-storage.live
 online365-office.com
@@ -404,6 +408,11 @@ suffering-arnold-satisfaction-prior.trycloudflare.com
 swapper-prd.zi-ext.com
 t.me
 t4.contactswebaccion.store
+targetsname-cms.com
+targetsname-helpdesk.com
+targetsname-okta.com
+targetsname-servicedesk.com
+targetsname-sso.com
 tbnzuejbize.top
 teams-digest-oldversion.ubpages.com
 term-restore-satisfied-hence.trycloudflare.com
