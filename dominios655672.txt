@@ -19,6 +19,8 @@
 ::ffff:149.154.161.213
 ::ffff:149.154.161.231
 ::ffff:149.154.161.232
+::ffff:149.154.161.233
+::ffff:149.154.161.234
 ::ffff:149.154.161.246
 ::ffff:149.154.161.250
 ::ffff:149.154.161.252
@@ -301,6 +303,7 @@ lfpdppdvtvjmlsw.top
 lianxinxiao.com
 libellus.ru
 lihi.cc
+lineageembraer.online
 login.executiivesearcher.com
 lorrup.com
 lotorda.ru
@@ -358,6 +361,7 @@ open-exceptions-cleared-feelings.trycloudflare.com
 opribhzuw8bz.top
 opzovbjzueg.top
 p07da-h5xafl78ag0n-472a.squarespace.com
+paste.ee
 pbizntettbvs.top
 pdf-cache.com
 pdf-cache.online
@@ -367,6 +371,7 @@ pdf-forwarding.online
 pdf-shared.online
 pdf-sharepoint.forteproductions.org
 pfaeldsmbmqbatk.top
+pharmacynod.com
 phones-pichunter-businesses-drop.trycloudflare.com
 photo-auction-visual-gains.trycloudflare.com
 phsujibusy4ubad.top
