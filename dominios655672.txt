@@ -13,6 +13,7 @@
 ::ffff:144.172.110.50
 ::ffff:144.91.68.206
 ::ffff:149.154.161.196
+::ffff:149.154.161.198
 ::ffff:149.154.161.199
 ::ffff:149.154.161.205
 ::ffff:149.154.161.212
@@ -43,6 +44,7 @@
 ::ffff:45.156.129.57
 ::ffff:51.195.190.7
 ::ffff:51.195.190.9
+::ffff:68.183.175.201
 ::ffff:8.219.176.16
 ::ffff:8.222.142.60
 ::ffff:8.222.201.35
@@ -101,7 +103,6 @@ bnzuyeubizh3f.top
 bnzyewtreugbhbw.top
 bookings.blocknovas.com
 brcfvyjjkrckwik.top
-bretux.com
 bristol-weed-martin-know.trycloudflare.com
 brontaga.ru
 bt12gw.eabnpk.ru
@@ -212,7 +213,6 @@ ecuservice.shop
 ehlmccfgdcffmam.top
 email.cz
 emildeeeabebggm.top
-emorista.org
 en-co-server-pilot-micro.softr.app
 en.stocksindex.org
 en.stockslab.org
@@ -225,7 +225,6 @@ exmkleo.com
 f5.contactswebaccion.space
 ferujoludo.online
 file-milgov.systems
-fixuplink.com
 forest-offensive-height-letters.trycloudflare.com
 fotos-phillips-princess-baker.trycloudflare.com
 freeimagecdn.com
