@@ -32,8 +32,10 @@
 ::ffff:165.227.173.41
 ::ffff:167.99.182.93
 ::ffff:171.25.193.20
+::ffff:172.104.11.4
 ::ffff:172.105.246.139
 ::ffff:178.17.171.102
+::ffff:185.220.100.244
 ::ffff:185.220.101.58
 ::ffff:192.155.82.250
 ::ffff:193.233.203.209
@@ -58,6 +60,7 @@
 ::ffff:95.161.76.22
 ::ffff:95.161.76.25
 ::ffff:95.161.76.53
+aaaaabbbbbbb.eastus.cloudapp.azure.com
 acibbnijcehcmbi.top
 acrtyfmjdxpvnha.top
 advanceipscaner.com
