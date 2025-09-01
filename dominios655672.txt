@@ -479,7 +479,6 @@ targetsname-cms.com
 targetsname-helpdesk.com
 targetsname-okta.com
 targetsname-servicedesk.com
-targetsname-sso.com
 tbnzuejbize.top
 teams-digest-oldversion.ubpages.com
 term-restore-satisfied-hence.trycloudflare.com
