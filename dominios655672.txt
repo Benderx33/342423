@@ -1,6 +1,7 @@
 annaehen.de
 api.allegromicro.cloud
 apiclofront.com
+bender.today
 binclloudapp.com
 checkpoint-vpn.com
 cipomar.org
