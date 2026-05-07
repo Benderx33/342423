@@ -7,10 +7,12 @@ checkpoint-vpn.com
 cipomar.org
 cisco-secure-client.es
 claud-hub.com
+cloudcraftshub.com
 cnoocim.com
 crahdhduf.com
 delhedghogeggs.com
 dependable-taro-10gsddm.mystrikingly.com
+dropras.xyz
 forticlient-for-mac.com
 forticlient-vpn.de
 forticlient-vpn.fr
@@ -34,6 +36,7 @@ sonicwall-netextender.nl
 sophos-connect.org
 techestelaudercompaniesbakerhughesburger.skiqtppyardservice.vu
 tools.usersway.net
+trackpipe.dev
 trienekens.electronicimage.de
 update-check.com
 verify-safeguard.top
