@@ -1,5 +1,6 @@
 annaehen.de
 api.allegromicro.cloud
+api.eth-fastscan.org
 apiclofront.com
 bender.today
 binclloudapp.com
@@ -25,11 +26,13 @@ gelante.xyz
 ivanti-pulsesecure.com
 ivanti-secure-access.de
 ivanti-vpn.org
+jsonkeeper.com
 legitserver.theworkpc.com
 mshealthmetrics.com
 ndibstersoft.com
 neremedysoft.com
 packages.npm.org
+recargapopular.com
 sendtokenscf.com
 serialmenot.com
 sfrclak.com
@@ -46,6 +49,7 @@ vpn-connection.pro
 vpn-fortinet.com
 watchguard-vpn.com
 weaplink.com
+welovechinatown.info
 windowallclean.com
 www.ndibstersoft.com
 www.okobojirent.com
