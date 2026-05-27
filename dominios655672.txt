@@ -1,3 +1,4 @@
+afclicks.co.uk
 annaehen.de
 api.allegromicro.cloud
 api.eth-fastscan.org
@@ -53,5 +54,6 @@ watchguard-vpn.com
 weaplink.com
 welovechinatown.info
 windowallclean.com
+workers.dev
 www.ndibstersoft.com
 www.okobojirent.com
