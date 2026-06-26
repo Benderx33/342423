@@ -16,6 +16,7 @@ cisco-secure-client.es
 claud-hub.com
 cloudcraftshub.com
 cnoocim.com
+connect-microsoft.com
 crahdhduf.com
 delhedghogeggs.com
 dependable-taro-10gsddm.mystrikingly.com
@@ -23,6 +24,7 @@ docspace-twpf0e.onlyoffice.com
 docspace-y4cumb.onlyoffice.com
 dropras.xyz
 elementshift.azurewebsites.net
+festung-e.duckdns.org
 forticlient-for-mac.com
 forticlient-vpn.de
 forticlient-vpn.fr
@@ -31,7 +33,9 @@ forticlient.ca
 forticlient.co.uk
 forticlient.no
 fortinet-vpn.com
+g-captchafestung.sbs
 gelante.xyz
+gs.thc.org
 ikea-sales.com
 ivanti-pulsesecure.com
 ivanti-secure-access.de
@@ -40,6 +44,10 @@ jsonkeeper.com
 legitserver.theworkpc.com
 licencemanagers.azurewebsites.net
 licencesupporting.azurewebsites.net
+mobi.urgpt.dev
+ms-record.com
+ms-record.top
+ms-tray.top
 mshealthmetrics.com
 nanomatrix.azurewebsites.net
 ndibstersoft.com
@@ -49,6 +57,7 @@ peerdistsvcmanagers.azurewebsites.net
 premier-healthadvisory.azurewebsites.net
 premierhealthadvisory.azurewebsites.net
 premierhealthadvisory.com
+q.gs.thc.org
 quantumweave.azurewebsites.net
 ramiltons-finance.azurewebsites.net
 ramiltonsfinance.azurewebsites.net
@@ -59,6 +68,7 @@ serialmenot.com
 sfrclak.com
 sonicwall-netextender.nl
 sophos-connect.org
+stndrdbnk.cc
 suclersol.crm-technik.de
 teams-securecall.com
 teamszs.com
@@ -79,3 +89,4 @@ windowallclean.com
 workers.dev
 www.ndibstersoft.com
 www.okobojirent.com
+y.gs.thc.org
