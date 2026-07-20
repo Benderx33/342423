@@ -135,7 +135,6 @@
 ::ffff:2d9c:8134
 ::ffff:2d9c:8139
 ::ffff:2de6:426e
-::ffff:2de6:426f
 ::ffff:2d54:6b36
 ::ffff:2ffb:d3b
 ::ffff:2f59:9a10
